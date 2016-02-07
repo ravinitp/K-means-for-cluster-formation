@@ -15,6 +15,7 @@ WSN
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 // 
 
+```C++
 #include "basestation.h"
 #include "sensor.h"
 #include <cstddev.h>
@@ -337,7 +338,4 @@ void BaseStation::buildCluster(int k,int n)
 
 
 }
-
-
-
-
+```
